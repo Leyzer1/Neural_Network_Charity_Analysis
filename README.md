@@ -25,5 +25,6 @@ This were the results:
 ![3rd attempt](https://user-images.githubusercontent.com/95899763/168529402-d2dbce8e-9ea3-44b5-864c-6dd87b796dce.PNG)
 
 
-
 # Summary 
+
+After three attemps we were not able to create a model that would reach 75% accuracy rating. We could have continue setting different convinations of neurons to get the results desired. 
